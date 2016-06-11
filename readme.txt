@@ -7,4 +7,3 @@ test --no-ff git merge
 i686 clone learngit for github
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
-Change to all to & simple.
