@@ -6,4 +6,8 @@ Creating a new branch is quick AND simple.
 test --no-ff git merge
 i686 clone learngit for github
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
