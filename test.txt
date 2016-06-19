@@ -1,8 +1,3 @@
 #!/usr/local/bin/env
 git stash test. 
-<<<<<<< HEAD
-test mergetool in branch dev
-=======
 test whether I have the mergetool
-
->>>>>>> master
