@@ -1,3 +1,4 @@
 #!/usr/local/bin/env
 git stash test. 
+test whether I have the mergetool
 
